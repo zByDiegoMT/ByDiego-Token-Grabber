@@ -1,0 +1,53 @@
+---------------------{ Luzi Discord Server Cloner }---------------------
+
+
+
+
+ > Enlace: https://anonfiles.com/H0cf4b83xf/LuziClonerV2_exe
+
+
+
+
+> Requisitos:
+
+
+
+
+ Descargar Python
+
+
+
+
+ > https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe
+
+
+
+
+ > Recuerda, al abrir el .exe de Python hay un bóton abajo que dice Add To Path, activen ese botón y ya lo podeis instalar
+
+
+
+
+ Una vez descargado, abrimos el CMD y ponemos el comando siguiente
+
+
+
+
+
+ > py install pyinstaller
+
+
+
+
+ > Una vez eso, os vais a la dirección del .exe del Discord Server Cloner, abris un CMD con su dirección de carpeta y poneis
+
+ pip install -r requirements.txt
+
+
+
+
+ Y listo, solo abreis el .exe, esperais a que os carguen los archivos y ya tendréis el duplicador de servidores de Discordia
+
+
+
+ > Cualquier cosa, duda, problema consulten al MD de ByLucas45#6967
