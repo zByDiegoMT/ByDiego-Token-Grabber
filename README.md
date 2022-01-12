@@ -14,3 +14,6 @@ pip install -r requirements.txt
 OPEN construir-exe.bat and Put .EXE NAME
 
 Once done, head to the DIST folder and that. EXE is the token grabber
+
+
+![Preview](https://user-images.githubusercontent.com/97636244/149229081-7f83cd9e-efd1-4751-b00c-0d1b8caf681b.png)
